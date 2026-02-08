@@ -19,4 +19,4 @@ So, simply report what I did.
 
 # Result
 
-![sim] (img/sim.png)
+![sim](img/sim.png)
