@@ -1,5 +1,6 @@
 # Notice
 This src file is intermediate stage for 5-stage pipelined RV32I which is consiered Data Hazard and Control Hazard.
+So, simply report what I did.
 
 2026/1/20 ~ 2026/2/9
 
@@ -18,3 +19,4 @@ This src file is intermediate stage for 5-stage pipelined RV32I which is consier
 
 # Result
 
+![sim] (img/sim.png)
